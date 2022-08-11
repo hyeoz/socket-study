@@ -1,0 +1,13 @@
+{
+  "name": "socketIo-study",
+  "version": "0.0.1",
+  "description": "socket io chat example",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon --watch index.js"
+  }
+}
